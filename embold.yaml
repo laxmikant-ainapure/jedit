@@ -18,4 +18,5 @@ sources:
     - 'grunt'
     - 'library'
     - '.git'
+    - '/org/gjt/sp/jedit/gui/AbbrevEditor.java'
 languages: 'JAVA'
