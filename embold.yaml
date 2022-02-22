@@ -18,5 +18,5 @@ sources:
     - 'grunt'
     - 'library'
     - '.git'
-    - 'AbbrevEditor.java'
+   
 languages: 'JAVA'
